@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Chirag Vaze and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Chirag Vaze and I'm a passionate IT engineering student from Maharashtra, India.</h2>
 
 ###
 
@@ -44,7 +44,7 @@
   <a href="mailto:ccchiragvaze@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="www.linkedin.com/in/chirag-vaze" target="_blank">
+  <a href="https://www.linkedin.com/in/chirag-vaze" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
@@ -56,3 +56,4 @@
 <img src="https://raw.githubusercontent.com/chiragvaze/chiragvaze/output/snake.svg" alt="Snake animation" />
 
 ###
+
