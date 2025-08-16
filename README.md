@@ -63,19 +63,19 @@
   <p style="
     display: inline-block;
     padding: 15px 30px;
-    border-radius: 20px;
-    background: #111;
-    color: #0ff;
-    font-family: 'Trebuchet MS', sans-serif;
+    border-radius: 15px;
+    background: linear-gradient(135deg, #ff7e5f, #feb47b);
+    color: white;
+    font-family: Arial, sans-serif;
     font-size: 18px;
     font-weight: bold;
-    text-shadow: 0 0 10px #0ff, 0 0 20px #0ff;
-    box-shadow: 0 0 15px #0ff, inset 0 0 10px #0ff;">
-    👀 Visitor Count  
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=chiragvaze.chiragvaze&left_color=black&right_color=cyan" 
+    transition: transform 0.3s ease, box-shadow 0.3s ease;">
+    🚀 Profile Visitors  
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=chiragvaze.chiragvaze&left_color=orange&right_color=red" 
          alt="Visitors" style="vertical-align: middle;"/>
   </p>
 </div>
+
 
 ###
 
