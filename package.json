@@ -1,7 +1,6 @@
 {
   "name": "neon-visitor-badge",
   "private": true,
-  "type": "module",
   "dependencies": {},
   "engines": {
     "node": ">=18"
