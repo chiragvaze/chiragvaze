@@ -1,11 +1,9 @@
 {
   "name": "neon-visitor-badge",
   "private": true,
+  "type": "module",
   "dependencies": {},
   "engines": {
     "node": ">=18"
-  },
-  "scripts": {
-    "start": "node api/neon-visitors.js"
   }
 }
