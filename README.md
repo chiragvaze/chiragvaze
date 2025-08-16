@@ -59,22 +59,9 @@
 <img src="https://raw.githubusercontent.com/chiragvaze/chiragvaze/output/snake.svg" alt="Snake animation" />
 
 ###
-<div align="center" style="margin: 30px;">
-  <p style="
-    display: inline-block;
-    padding: 15px 30px;
-    border-radius: 15px;
-    background: linear-gradient(135deg, #ff7e5f, #feb47b);
-    color: white;
-    font-family: Arial, sans-serif;
-    font-size: 18px;
-    font-weight: bold;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;">
-    🚀 Profile Visitors  
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=chiragvaze.chiragvaze&left_color=orange&right_color=red" 
-         alt="Visitors" style="vertical-align: middle;"/>
-  </p>
-</div>
+<p align="center">
+  <img src="https://neon-badge.ccchiragvaze.workers.dev/?page_id=chiragvaze.chiragvaze" alt="Neon Visitor Counter"/>
+</p>
 
 
 ###
