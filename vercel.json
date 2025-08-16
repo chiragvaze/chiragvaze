@@ -1,11 +1,6 @@
 {
   "version": 2,
-  "functions": {
-    "api/neon-visitors.js": {
-      "runtime": "nodejs18.x"
-    }
-  },
-  "routes": [
-    { "src": "/api/neon-visitors", "dest": "/api/neon-visitors.js" }
+  "builds": [
+    { "src": "api/**/*.js", "use": "@vercel/node" }
   ]
 }
