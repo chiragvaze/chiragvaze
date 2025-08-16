@@ -59,22 +59,22 @@
 <img src="https://raw.githubusercontent.com/chiragvaze/chiragvaze/output/snake.svg" alt="Snake animation" />
 
 ###
-<div align="center" style="margin: 20px;">
-
+<div align="center" style="margin: 30px;">
   <p style="
     display: inline-block;
-    background: linear-gradient(90deg, #6a11cb, #2575fc);
-    color: white;
-    padding: 10px 20px;
-    border-radius: 12px;
+    padding: 15px 30px;
+    border-radius: 20px;
+    background: #111;
+    color: #0ff;
+    font-family: 'Trebuchet MS', sans-serif;
+    font-size: 18px;
     font-weight: bold;
-    font-size: 16px;
-    font-family: 'Segoe UI', sans-serif;">
-    👀 Profile Visitors: 
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=chiragvaze.chiragvaze&right_color=orange&left_text=Visits" 
+    text-shadow: 0 0 10px #0ff, 0 0 20px #0ff;
+    box-shadow: 0 0 15px #0ff, inset 0 0 10px #0ff;">
+    👀 Visitor Count  
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=chiragvaze.chiragvaze&left_color=black&right_color=cyan" 
          alt="Visitors" style="vertical-align: middle;"/>
   </p>
-
 </div>
 
 ###
