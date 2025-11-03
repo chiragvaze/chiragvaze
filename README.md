@@ -56,7 +56,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/chiragvaze/chiragvaze/output/snake.svg" alt="Snake animation" />
+
+<img src="https://github.com/chiragvaze/chiragvaze/blob/output/github-contribution-grid-snake.svg?raw=1&v=2025-11-01" alt="Snake animation" />
 
 ###
 <p align="center">
