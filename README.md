@@ -57,7 +57,14 @@
 <br clear="both">
 
 
-<img src="https://github.com/chiragvaze/chiragvaze/blob/output/github-contribution-grid-snake.svg?raw=1&v=2025-11-01" alt="Snake animation" />
+<picture>
+  <!-- Dark mode -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/chiragvaze/chiragvaze/blob/output/github-contribution-grid-snake-dark.svg?raw=1&v=2025-11-03" />
+  <!-- Light mode -->
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/chiragvaze/chiragvaze/blob/output/github-contribution-grid-snake.svg?raw=1&v=2025-11-03" />
+  <!-- Fallback (light) -->
+  <img alt="Snake animation" src="https://github.com/chiragvaze/chiragvaze/blob/output/github-contribution-grid-snake.svg?raw=1&v=2025-11-03" />
+</picture>
 
 ###
 <p align="center">
