@@ -9,14 +9,15 @@
 
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=chiragvaze&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
-  
 
- <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chiragvaze&layout=normal&langs_count=8&theme=dracula&hide_border=false&card_width=300" height="195" alt="Most Used Languages" /> --!>
-  
-  
+<a href="https://github-languages-card.vercel.app/">
+  <img src="https://github-languages-card.vercel.app/api/top-languages?username=chiragvaze&theme=dark" alt="Top Languages" width="450" />
+</a>
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=chiragvaze&theme=dark&hide_border=true" alt="GitHub Streak" width="450" />
+</a>
+
 </div>
-
 ###
 
 <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"  />
