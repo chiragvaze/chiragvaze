@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Chirag Vaze and I'm a passionate IT engineering student from Maharashtra, India.</h2>
+<h2 align="left">Hi 👋! Chirag Vaze here and I'm a passionate IT engineering student from Maharashtra, India.</h2>
 
 ###
 
